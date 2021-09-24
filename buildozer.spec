@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = For1
+title = pult 001
 
 # (str) Package name
-package.name = For1
+package.name = pult001
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
