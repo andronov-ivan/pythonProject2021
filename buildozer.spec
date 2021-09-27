@@ -42,12 +42,6 @@ requirements = python3,kivy==2.0.0
 # Sets custom source for any requirements with recipes
 # requirements.source.kivy = ../../kivy
 
-# (str) Presplash of the application
-#presplash.filename = %(source.dir)s/data/logo/presplash512okmin.png
-
-# (str) Icon of the application
-#icon.filename = %(source.dir)s/data/logo/logo512min.png
-
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = all
 
@@ -186,8 +180,6 @@ fullscreen = 0
 # If you leave this blank, OUYA support will not be enabled
 #android.ouya.category = GAME
 
-# (str) Filename of OUYA Console icon. It must be a 732x412 png image.
-#android.ouya.icon.filename = %(source.dir)s/data/ouya_icon.png
 
 # (str) XML file to include as an intent filters in <activity> tag
 #android.manifest.intent_filters =
